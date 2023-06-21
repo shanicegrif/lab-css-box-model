@@ -44,7 +44,7 @@ footer span {
 
 .breaking-news {
     padding: 0px 30px;
-    width: 750px;
+    width: calc(90vw - 360px - 5%)
 }
 
 .breaking-news img {
